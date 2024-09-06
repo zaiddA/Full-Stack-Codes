@@ -1,1 +1,1 @@
-# Full Stack Codes
+# Basic JavaScript
